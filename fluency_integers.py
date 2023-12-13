@@ -3,7 +3,7 @@
 # Date Created: Oct 8, 2022
 print('''
 DreamHack #1 - Revision #2
-Lesson Name - Fluency: Integers
+Lesson Name - Fluency:Measuring the volume of containers
 Date Created: Oct 8, 2022
 https://github.com/TechDudie/DreamHack
 '''.strip())
